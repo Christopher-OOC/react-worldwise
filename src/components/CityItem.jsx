@@ -19,5 +19,4 @@ function CityItem({ city }) {
     </li>
   );
 }
-
 export default CityItem;
